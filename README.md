@@ -7,7 +7,6 @@ I love PHP, and I've been working mostly on command-line tools lately. Here's so
 
 - [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
 - [Streamaru](https://github.com/erikaheidi/streamaru) - An experimental collection of tools for live streaming with OBS.
-- [Sponsorshub](https://github.com/erikaheidi/sponsorshub) - An open source platform to share premium content with Github sponsors. [under development]
 
 <!--
 **erikaheidi/erikaheidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
