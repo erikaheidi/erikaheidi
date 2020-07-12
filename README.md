@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Erika Heidi (she/her), a developer and content producer, passionate about open source and creating technical content for a variety of audiences. I enjoy [live coding](https://twitch.tv/erikaheidi) and [speaking at conferences]().
+
+I love PHP and backend coding, and I've been working mostly on command-line tools lately. Here are the projects I'm most excited about right now:
+
+- [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
+- [Streamaru](https://github.com/erikaheidi/streamaru) - An experimental collection of tools for live streaming with OBS.
+- [Librarian](https://github.com/minicli/librarian) - A file-based CMS (no DB) built on top of Minicli. This is what I use in my [personal blog](https://eheidi.dev).
+- [Sponsorshub](https://github.com/erikaheidi/sponsorshub) - An open source platform to share premium content with Github sponsors. [under development]
 
 <!--
 **erikaheidi/erikaheidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
