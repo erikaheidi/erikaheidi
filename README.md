@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Erika Heidi (she/her), a developer and content producer, passionate about open source and creating technical content for a variety of audiences. I enjoy [live coding](https://twitch.tv/erikaheidi) and [speaking at conferences]().
+I'm Erika Heidi (she/her), a developer and content producer, passionate about open source and creating technical content for a variety of audiences. I also enjoy [live coding](https://twitch.tv/erikaheidi) and [drawing](https://dev.to/erikaheidi/pick-squash-drop-rebase-comic-607) as educational resources.
 
-I love PHP and backend coding, and I've been working mostly on command-line tools lately. Here are the projects I'm most excited about right now:
+I love PHP, and I've been working mostly on command-line tools lately. Here are the projects I'm most excited about right now:
 
 - [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
 - [Streamaru](https://github.com/erikaheidi/streamaru) - An experimental collection of tools for live streaming with OBS.
