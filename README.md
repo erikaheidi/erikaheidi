@@ -1,12 +1,15 @@
 <img src="https://github.com/erikaheidi/erikaheidi/blob/master/erika_illustrated_avatar.png" align="right">
 
 ### Hi there 👋
-I'm Erika Heidi (she/her), a developer and content producer, passionate about open source and creating technical content for a variety of audiences. I also enjoy [live coding](https://twitch.tv/erikaheidi) and [drawing](https://dev.to/erikaheidi/pick-squash-drop-rebase-comic-607) as educational resources.
+I'm Erika Heidi (she/her), a developer and content creator, passionate about open source and creating technical content for a variety of audiences. I have a strong background in PHP and its ecosystem, also in Linux and systems administration. 
 
-I love PHP, and I've been working mostly on command-line tools lately. Here's some projects I'm excited about right now:
+I enjoy [live coding](https://twitch.tv/erikaheidi) from time to time and [drawing](https://dev.to/erikaheidi/pick-squash-drop-rebase-comic-607) as educational resources. In my free time, I like to tinker with 3D printing and play Animal Crossing 😄
+
+Here's some projects I'm excited about right now:
 
 - [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
-- [Streamaru](https://github.com/erikaheidi/streamaru) - An experimental collection of tools for live streaming with OBS.
+- [Librarian](https://github.com/minicli/librarian) - An experimental file-based CMS in PHP.
+- [Minileaf](https://github.com/erikaheidi/minileaf) - A command-line client to control Nanoleaf panels, written in PHP.
 
 <!--
 **erikaheidi/erikaheidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
