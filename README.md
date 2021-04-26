@@ -5,7 +5,7 @@ I'm Erika Heidi (she/her), a creative developer and content creator passionate a
 
 I thoroughly enjoy working on experimental applications and small side projects. If coders had a style, I'd say mine is minimalist and/or indie.
 
-Open source has always taken a special place in my heart, and what I like the most about it is the aspec of "learning in public", essentially sharing what you are working on and feel excited about, since it may be useful for other folks even if just as an inspiration. Here's some projects I'm excited about right now:
+Open source has always taken a special place in my heart, and what I like the most about it is the aspect of "learning in public", essentially sharing what you are working on and feel excited about, since it may be useful for other folks even if just as an inspiration. Here's some projects I'm excited about right now:
 
 - [SponsorOSS](https://github.com/erikaheidi/sponsoross) - A list of underrepresented open source creators that can be sponsored on the GitHub Sponsors Program.
 - [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
