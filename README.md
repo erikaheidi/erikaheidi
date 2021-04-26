@@ -1,15 +1,18 @@
 <img src="https://github.com/erikaheidi/erikaheidi/blob/master/erika_illustrated_avatar.png" align="right">
 
 ### Hi there 👋
-I'm Erika Heidi (she/her), a developer and content creator, passionate about open source and creating technical content for a variety of audiences. I have a strong background in PHP and its ecosystem, also in Linux and systems administration. 
+I'm Erika Heidi (she/her), a creative developer and content creator passionate about open source, Linux, and PHP. I currently work as a Senior Technical Writer at DigitalOcean, where I write tutorials and other educational resources for various audiences.
 
-I enjoy [live coding](https://twitch.tv/erikaheidi) from time to time and [drawing](https://dev.to/erikaheidi/pick-squash-drop-rebase-comic-607) as educational resources. In my free time, I like to tinker with 3D printing and play Animal Crossing 😄
+I thoroughly enjoy working on experimental applications and small side projects. If coders had a style, I'd say mine is minimalist and/or indie.
 
-Here's some projects I'm excited about right now:
+Open source has always taken a special place in my heart, and what I like the most about it is the aspec of "learning in public", essentially sharing what you are working on and feel excited about, since it may be useful for other folks even if just as an inspiration. Here's some projects I'm excited about right now:
 
+- [SponsorOSS](https://github.com/erikaheidi/sponsoross) - A list of underrepresented open source creators that can be sponsored on the GitHub Sponsors Program.
 - [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
-- [Librarian](https://github.com/minicli/librarian) - An experimental file-based CMS in PHP.
-- [Minileaf](https://github.com/erikaheidi/minileaf) - A command-line client to control Nanoleaf panels, written in PHP.
+- [Librarian](https://github.com/librarianphp/librarian) - An experimental file-based CMS / markdown document indexer in PHP.
+- [Parsed](https://github.com/erikaheidi/parsed) - A generic parser for markdown content supporting front matter and liquid tags (based on the DEV.to format). 
+
+If you would like to support my open source work, consider [becoming a sponsor](https://github.com/sponsors/erikaheidi). Also, consider sponsoring the awesome folks at [https://sponsoropensource.dev](https://sponsoropensource.dev).
 
 <!--
 **erikaheidi/erikaheidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
