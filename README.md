@@ -1,7 +1,9 @@
 <img src="https://github.com/erikaheidi/erikaheidi/blob/master/erika_illustrated_avatar.png" align="right">
 
 ### Hi there 👋
-I'm Erika Heidi (she/her), a creative developer and content creator passionate about open source, Linux, and PHP. I currently work as a Senior Technical Writer at DigitalOcean, where I write tutorials and other educational resources for various audiences.
+I'm Erika Heidi (she/her), a creative developer and content creator passionate about open source, Linux, and PHP. I'm also a [published author](https://leanpub.com/vagrantcookbook), [conference speaker](https://www.youtube.com/watch?v=l0jb-N5H52A), and have been recently nominated [GitHub Star](https://stars.github.com/profiles/erikaheidi). 
+
+I currently work as a Senior Technical Writer at DigitalOcean, where I write [tutorials and other educational resources about Linux, systems administration, devOps, and PHP / Laravel](https://www.digitalocean.com/community/users/erikaheidi).
 
 I thoroughly enjoy working on experimental applications and small side projects. If coders had a style, I'd say mine is minimalist and/or indie.
 
