@@ -9,10 +9,10 @@ I thoroughly enjoy working on experimental applications and small side projects.
 
 Open source has always taken a special place in my heart, and what I like the most about it is the aspect of "learning in public", essentially sharing what you are working on and feel excited about, since it may be useful for other folks even if just as an inspiration. Here's some projects I'm excited about right now:
 
-- [SponsorOSS](https://github.com/erikaheidi/sponsoross) - A list of underrepresented open source creators that can be sponsored on the GitHub Sponsors Program.
+- [GDaisy](https://github.com/erikaheidi/gdaisy) - A templating system for dynamically generating images with PHP-GD.
+- [Dynacover](https://github.com/erikaheidi/dynacover) - A CLI app to dynamically generate and upload profile covers to your Twitter profile, showing latest followers and other information.
 - [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
 - [Librarian](https://github.com/librarianphp/librarian) - An experimental file-based CMS / markdown document indexer in PHP.
-- [Parsed](https://github.com/erikaheidi/parsed) - A generic parser for markdown content supporting front matter and liquid tags (based on the DEV.to format). 
 
 If you would like to support my open source work, consider [becoming a sponsor](https://github.com/sponsors/erikaheidi). Also, consider sponsoring the awesome folks at [https://sponsoropensource.dev](https://sponsoropensource.dev).
 
