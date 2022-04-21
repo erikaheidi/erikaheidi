@@ -1,0 +1,21 @@
+name: Import DEV posts
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: minicli/action-contributors@v3
+        name: "Import DEV posts"
+        env:
+          DEVTO_USERNAME: erikaheidi
+          APP_DATA_DIR: /data
+      - name: Create a PR
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Import DEV posts
+          title: "[automated] Import DEV posts"
+          token: ${{ secrets.GITHUB_TOKEN }}
