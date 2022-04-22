@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: erikaheidi/importDevTo@v1.1
+      - uses: erikaheidi/importDevTo@v1.2
         name: "Import posts from DEV"
         env:
           DEVTO_USERNAME: erikaheidi
