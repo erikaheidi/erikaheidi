@@ -1,4 +1,4 @@
-<img src="https://github.com/erikaheidi/erikaheidi/blob/master/erika_illustrated_avatar.png" align="right">
+<img src="https://github.com/erikaheidi/erikaheidi/blob/main/erika_illustrated_avatar.png" align="right">
 
 ### Hi there 👋
 I'm Erika Heidi (she/her), a creative developer and content creator passionate about open source, Linux, and PHP. I'm also a [published author](https://leanpub.com/vagrantcookbook), [conference speaker](https://www.youtube.com/watch?v=l0jb-N5H52A), and have been recently nominated [GitHub Star](https://stars.github.com/profiles/erikaheidi). 
