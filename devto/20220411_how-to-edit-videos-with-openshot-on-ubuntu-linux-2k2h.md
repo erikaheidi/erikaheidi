@@ -1,5 +1,5 @@
 ---
-title: How to Edit Videos with OpenShot on Ubuntu Linux
+title: How to Edit Videos with OpenShot, a free cross-platform open source video editor
 description: In this guide you'll learn how to use OpenShot to edit videos on Linux Ubuntu (21.10)
 tags: tutorials, video, linux, beginners
 cover_image: https://onlinux.ams3.digitaloceanspaces.com/openshot/openshot_banner.png
