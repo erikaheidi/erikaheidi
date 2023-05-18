@@ -1,0 +1,30 @@
+---
+title: Faça do seu objetivo uma maratona, não uma sprint 
+published: true
+description: Uma mensagem para o ano novo <3
+tags: ptbr, bolhadev, iniciantes
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/agh0waayhuy6vadhjbsc.jpeg
+# Use a ratio of 100:42 for best results.
+# published_at: 2022-12-30 18:37 +0000
+---
+_Originally posted in English on [24daysofchristmas](https://24daysindecember.net/2022/12/24/make-it-a-marathon-not-a-sprint/)_
+
+O ano era 2002; eu trabalhava como suporte técnico em um provedor de internet discada local. Entre uma chamada e outra, sempre tinha uns períodos de ociosidade, e apesar de muitas vezes eu passar o tempo jogando MUD ou conversando no IRC, eventualmente eu comecei a blogar, e foi aí que as coisas começaram a mudar. Vendo o que os outros blogs estavam fazendo, eu comecei a aprender HTML e CSS pra deixar o meu blog bonitinho e customizado. Algum tempo depois, eu comecei a criar templates gratuitos pra outros blogs (tinha até site, se chamava "casa dos layouts"), e isso me levou a ganhar uma competição organizada pela plataforma de blog que eu usava na época (Blig). O prêmio era um livro; eu escolhi um livro sobre como criar sites em PHP, e foi assim que eu aprendi a programar nessa linguagem.
+
+Vinte anos depois, escrever é a minha ocupação principal, mas o PHP sempre teve e sempre terá um espaço importante na minha vida e na minha carreira. Foi a linguagem que me formou como desenvolvedora, foi a linguagem na qual criei projetos que pagaram as minhas contas por muitos anos, é a linguagem na qual criei e continuo criando projetos experimentais e de código aberto que atendem minhas necessidades e me proporcionam aprender sobre tecnologias novas. Mais importante, a comunidade PHP foi a que me acolheu e me apoiou quando precisei, me ajudou a crescer e ter meu trabalho reconhecido em conferências e outros eventos.
+
+E não foi fácil, sabe? Pensei em desistir várias vezes. Primeiramente, porque aprender a programar é bem difícil, e a gente tende a esquecer isso. Era bem mais difícil há 20 anos atrás, com tão pouco conteúdo em português. Os livros estavam sempre desatualizados, além de serem bem caros. A comunidade de desenvolvedores não era tão inclusiva. Mas a parte mais difícil era mesmo "fazer dinheiro". Passei momentos em que eu tava tão quebrada que não tinha dinheiro pra passagem de ônibus pra ir pra faculdade. Enquanto isso, alguns amigos da faculdade (os ricos) já tinha até carro, não tinham de trabalhar, e alguns inclusive cursavam *duas* graduações em instituições federais, ou seja, ocupando vagas de pessoas que realmente não tinham como pagar ensino privado. Eu sentia que aquilo era uma tremenda injustiça, mas o baile tem que continuar. Então eu continuei, mas não na faculdade - eventualmente larguei para me dedicar ao trabalho e pagar minhas contas, e apesar de tudo eu tive sucesso na minha carreira como auto-didata e sem um diploma acadêmico na área.
+
+De tempos em tempos, é importante parar pra pensar nas nossas conquistas, porque a gente tende a esquecer com facilidade o quão difícil era no início. Também é importante passar a mensagem pra quem está começando agora, que no começo é difícil mesmo, mas as coisas vão melhorando com o tempo. Se eu encontrasse hoje com a Erika de 20 anos atrás, esses são os conselhos que eu daria para ela:
+
+- É difícil ser realmente boa em algo. Mas vai ter um divisor de águas, um ponto onde você quer tanto aquilo, que vai estar disposta a "pagar o preço" – o que na maioria das vezes não é em valor monetário, mas em tempo e dedicação. Dinheiro não pode comprar essas coisas.
+- Por um tempo que vai parecer muito longo a princípio, você vai sentir que não tem progresso, e você vai se sentir frustrada. Você pode até pensar em desistir. Mas você precisa realmente confiar no processo! Quando você passar do ponto onde as ondas estão quebrando, você vai conseguir se mover mais rápido e vai passar a ter prazer no processo em si, sem ficar tão obcecada com o resultado final.
+- Mudança significativa requer um comprometimento de longo termo. Isso não é uma sprint, é uma maratona. Você precisar manter o ritmo e focar na consistência, isso é muito mais importante do que velocidade.
+
+Alguns de vocês devem saber que eu gosto de musculação. Apesar de não ser algo completamente novo na minha vida, e eu estar frequentado a academia de forma inconsistente por muitos anos, foi apenas em 2022 que eu decidi levar isso a sério, com o objetivo de ficar realmente forte. E essa experiência têm sido uma grande lição de perseverança e humildade, já que o progresso é extremamente lento, apesar do grande esforço aplicado. Por muitos meses, não tinha nenhuma mudança visível; e isso me lembrou muito aprender a programar – a frustração, a sensação de que era mais fácil pras outras pessoas, que eu não era boa o suficiente ou não estava me dedicando o suficiente. Como andar milhas e milhas e não sair do lugar.
+
+Mas eu continuei, focando em consistência, com paciência e dedicação. Hoje eu consigo ver claramente a diferença, eu estou realmente levantando pesos mais pesados do que há alguns meses atrás, e a prática se consolidou na minha rotina como algo prazeroso que eu já acordo animada pra realizar. Eu acredito que essa parte é a mais importante, inclusive – consistência gera dividendos, e pra isso você tem que jogar o jogo longo.
+
+![Erika flexing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6r7ynwu4h7s2re8wgf5.jpg)
+
+Nessa época do ano, é natural pensarmos sobre as nossas conquistas do ano que está para terminar, e se conseguimos ou não alcançar metas que traçamos no início do ano. Então eu te faço um pedido: por favor, extenda para si a mesma generosidade que oferece aos outros. Muitas vezes nem notamos, mas **sempre** há progresso. No mínimo, você aprendeu algumas formas diferentes que não vão funcionar para você no futuro. Descanse, recarregue as baterias, pense sobre o que quer conquistar em 2023. E qualquer que seja o seu objetivo para o ano novo, lembre-se de fazer dele uma maratona, e não uma "sprint".
