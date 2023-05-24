@@ -1,9 +1,10 @@
 ---
-title: How to Install Ubuntu 23.04 as Main System on a Desktop or VirtualBox VM
+title: How to Install Ubuntu 23.04 on a Desktop or VM
 description: In this guide, learn how to install Ubuntu 23.04 - you can install it as main operating system on a desktop computer, or as a VirtualBox VM.
 published: true
 tags: ubuntu, beginners, linux
 cover_image: https://cdn.eheidi.dev/ubuntu2304/install-2304.png
+series: Ubuntu 23.04 Desktop Setup Guide
 canonical_url: https://onlinux.systems/guides/20230515_how-to-install-ubuntu-2304-desktop-as-main-system-or-vm/
 ---
 
