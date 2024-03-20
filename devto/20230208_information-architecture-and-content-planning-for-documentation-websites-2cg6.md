@@ -7,6 +7,7 @@ tags: documentation, beginners, ux, docs
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nwcbj13cat0oopyqqbm1.png
 # Use a ratio of 100:42 for best results.
 # published_at: 2023-01-17 17:51 +0000
+canonical_url: https://eheidi.dev/tech-writing/20221220_information-architecture
 ---
 
 In a previous article in this series, we've seen how to set up a dedicated documentation website with Hugo, and how to host it for free on Netlify. Now you may be asking yourself what is the best way to organize your documentation so that users can make the best out of it and are able to find what they need more easily.

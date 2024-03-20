@@ -4,7 +4,7 @@ published: true
 description: In this step-by-step guide with screenshots, follow my initial desktop setup for Ubuntu 23.04: restoring backup and SSH keys, customizing appearance, and installing basic software.
 series: Ubuntu 23.04 Desktop Setup Guide
 tags: ubuntu, linux, beginners, tutorials
-cover_image: https://cdn.eheidi.dev/ubuntu2304/setup/setup2304.png
+cover_image: https://onlinux.erikaheidi.com/ubuntu2304/setup/setup2304.png
 # Use a ratio of 100:42 for best results.
 # published_at: 2023-05-23 16:29 +0000
 ---
@@ -136,4 +136,4 @@ Some of my personal recommendations:
 - [OBS Studio](https://obsproject.com/) - Livestreaming and video recording software
 - [Audacity](https://www.audacityteam.org/) - Audio recording and editing
 
-In the next post of this series about Ubuntu 23.04, we'll install and set up Terminator with Oh-My-ZSH for a pretty and extra customizable terminal prompt.
+In the next post of this series about Ubuntu 23.04, we'll [install and set up Terminator with Oh-My-ZSH](https://dev.to/erikaheidi/how-to-install-and-set-up-terminator-oh-my-zsh-on-ubuntu-2304-368g) for a pretty and extra customizable terminal prompt.

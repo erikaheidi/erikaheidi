@@ -25,6 +25,4 @@ Alguns de vocês devem saber que eu gosto de musculação. Apesar de não ser al
 
 Mas eu continuei, focando em consistência, com paciência e dedicação. Hoje eu consigo ver claramente a diferença, eu estou realmente levantando pesos mais pesados do que há alguns meses atrás, e a prática se consolidou na minha rotina como algo prazeroso que eu já acordo animada pra realizar. Eu acredito que essa parte é a mais importante, inclusive – consistência gera dividendos, e pra isso você tem que jogar o jogo longo.
 
-![Erika flexing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6r7ynwu4h7s2re8wgf5.jpg)
-
 Nessa época do ano, é natural pensarmos sobre as nossas conquistas do ano que está para terminar, e se conseguimos ou não alcançar metas que traçamos no início do ano. Então eu te faço um pedido: por favor, extenda para si a mesma generosidade que oferece aos outros. Muitas vezes nem notamos, mas **sempre** há progresso. No mínimo, você aprendeu algumas formas diferentes que não vão funcionar para você no futuro. Descanse, recarregue as baterias, pense sobre o que quer conquistar em 2023. E qualquer que seja o seu objetivo para o ano novo, lembre-se de fazer dele uma maratona, e não uma "sprint".

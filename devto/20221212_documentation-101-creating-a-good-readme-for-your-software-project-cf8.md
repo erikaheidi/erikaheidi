@@ -5,6 +5,7 @@ description: In this article, which is part 1 of a series on how to write good d
 tags: docs, documentation, beginners, opensource
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s42rt1emxmi9v4l5exe1.png
 series: documentation-101
+canonical_url: https://eheidi.dev/tech-writing/20221212_documentation-101
 ---
 
 Having a good documentation for your open source project is an important (and often overlooked) feature to drive adoption and show the full potential of what users can accomplish with your application or library.
