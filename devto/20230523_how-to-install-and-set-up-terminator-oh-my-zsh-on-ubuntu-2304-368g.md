@@ -3,7 +3,7 @@ title: How to Install and Set Up Terminator + Oh My ZSH! on Ubuntu 23.04
 published: true
 description: In this step-by-step guide, learn how to install and set up Terminator and Oh My ZSH! on Ubuntu 23.04 for a pretty and handy terminal.
 tags: linux, ubuntu, terminal, ohmyzsh
-cover_image: https://cdn.eheidi.dev/ubuntu2304/setup/terminator.png
+cover_image: https://onlinux.erikaheidi.com/ubuntu2304/setup/terminator.png
 canonical_url: https://onlinux.systems/guides/20230523_how-to-install-and-set-up-terminator-and-oh-my-zsh-on-ubuntu-2304/
 series: Ubuntu 23.04 Desktop Setup Guide
 ---
@@ -153,3 +153,5 @@ For instance, I enabled the PHP-related elements, so when I open a git-based PHP
 Don't forget to close and re-open Terminator to source the changes you made to the `~/.p10k.zsh` file.
 
 I hope you have enjoyed this guide - let me know [on Twitter](https://twitter.com/erikaheidi) which Oh My ZSH! theme is your favorite!
+
+_Update: the fine folks from Oh My ZSH shared a coupon for 10% discount at their [merch store](https://t.co/giYPX5C2ss), if you love the project consider getting some stickers for support ☺️ Here's the code: **10viaERIKA**_

@@ -6,6 +6,7 @@ tags: documentation, beginners, opensource, hugo
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/owk9mvujk1icgief2ugb.png
 # published_at: 2022-12-12 18:24 +0000
 series: documentation-101
+canonical_url: https://eheidi.dev/tech-writing/20221216_setting-up-a-documentation-site
 ---
 
 ## Introduction
