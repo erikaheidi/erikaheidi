@@ -7,15 +7,7 @@ I currently work as Developer Experience Engineer at [Chainguard](https://chaing
 
 I thoroughly enjoy working on experimental applications and small side projects. If coders had a style, I'd say mine is minimalist and/or indie.
 
-Open source has always taken a special place in my heart, and what I like the most about it is the aspect of "learning in public", essentially sharing what you are working on and feel excited about, since it may be useful for other folks even if just as an inspiration. Here's some projects I'm excited about right now:
-
-- [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
-- [GDaisy](https://github.com/erikaheidi/gdaisy) - A templating system for dynamically generating images with PHP-GD.
-- [Dynacover](https://github.com/erikaheidi/dynacover) - A CLI app to dynamically generate and upload profile covers to your Twitter profile, showing latest followers and other information.
-- [Librarian](https://github.com/librarianphp/librarian) - An experimental file-based CMS / markdown document indexer in PHP.
-
-If you would like to support my open source work, consider [becoming a sponsor](https://github.com/sponsors/erikaheidi). Also, consider sponsoring the awesome folks at [https://sponsoropensource.dev](https://sponsoropensource.dev).
-
+Open source has always taken a special place in my heart, and what I like the most about it is the aspect of "learning in public", essentially sharing what you are working on and feel excited about, since it may be useful for other folks even if just as an inspiration.
 
 <!--
 **erikaheidi/erikaheidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
